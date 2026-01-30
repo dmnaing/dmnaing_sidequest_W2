@@ -1,18 +1,18 @@
 ## Project Title
 
-GBDA302 Week 2 Example 1: Blob (Breathing Animation)
+GBDA302 Week 2: Sad blob + Mischief Notes
 
 ---
 
 ## Authors
 
-Karen Cochrane and David Han
+Min Htet Naing, dmnaing (21008098)
 
 ---
 
 ## Description
 
-A simple animated “blob” made from a ring of points. Perlin noise perturbs the radius over time to create an organic, breathing effect. No input yet.
+This p5.js sketch redesigns the blob to express sadness using slow, heavy movement, a droopy face/shape, muted colors, and a rainy environment. The bonus “mischief” mechanic is included: the blob can steal small notes by touching them, or bump them away when holding Shift.
 
 ---
 
@@ -20,20 +20,20 @@ A simple animated “blob” made from a ring of points. Perlin noise perturbs t
 
 Learning Goals:
 
-- Understand setup()/draw() structure
-- Build a custom shape from polar points
-- Use noise() for smooth, organic motion
+- Move: WASD / Arrow Keys
+- Touch notes to steal them
+- Hold SHIFT while touching a note to bump it away
 
 ---
 
 ## Assets
 
-N/A
+No external assets used. All visuals are generated with p5.js shapes.
 
 ---
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+GenAI used for redesigning the emotion's of the blob and the enivornment of the design.
 
 ---
